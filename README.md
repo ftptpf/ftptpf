@@ -6,6 +6,7 @@
 3. JUnit
 4. PostgreSQL/JDBC
 5. Travice CI
+6. IntelliJ Idea 
 
 <!--
 **ftptpf/ftptpf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
