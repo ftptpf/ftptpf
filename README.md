@@ -1,5 +1,3 @@
-### Hi there 👋 my name is Andrey! I'm a Java developer.
-
 #### Used technologies:
 1. Java Core
 2. GIT/Maven
