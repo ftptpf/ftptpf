@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 my name is Andrey! I'm a Java developer.
+
+#### Used technologies:
+1. Java Core
+2. GIT/Maven
+3. JUnit
+4. PostgreSQL/JDBC
+5. Travice CI
 
 <!--
 **ftptpf/ftptpf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
