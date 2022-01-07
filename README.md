@@ -1,10 +1,11 @@
 #### Used technologies:
 1. Java Core
-2. GIT/Maven
-3. JUnit
-4. PostgreSQL/JDBC
-5. Travice CI
-6. IntelliJ Idea 
+2. GIT
+3. Maven
+4. JUnit
+5. PostgreSQL/JDBC
+6. Travice CI
+7. IntelliJ Idea 
 
 <!--
 **ftptpf/ftptpf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
