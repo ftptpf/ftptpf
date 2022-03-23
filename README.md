@@ -6,6 +6,7 @@
 5. PostgreSQL/JDBC
 6. Travice CI
 7. IntelliJ Idea 
+8. JS, jQuery, Ajax
 
 <!--
 **ftptpf/ftptpf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
