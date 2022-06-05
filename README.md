@@ -8,6 +8,7 @@
 7. IntelliJ Idea 
 8. JS, jQuery, Ajax
 9. HTML, CSS
+10. Spring: Boot
 
 <!--
 **ftptpf/ftptpf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
