@@ -1,16 +1,12 @@
 #### Used technologies:
 1. Java Core
-2. GIT
-3. Maven
-4. JUnit
-5. PostgreSQL/JDBC
-6. Hibernate
+2. Spring: Boot
+3. Database:PostgreSQL/JDBC, Hibernate
+4. Testing: JUnit
+5. WEB: HTML, CSS, JS, jQuery, Ajax, Thymeleaf, Bootstrap
+6. Maven
 7. Travice CI
-8. IntelliJ Idea 
-9. JS, jQuery, Ajax
-10. HTML, CSS
-11. Thymeleaf, Bootstrap
-12. Spring: Boot
+8. IntelliJ Idea
 
 <!--
 **ftptpf/ftptpf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
