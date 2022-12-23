@@ -1,8 +1,8 @@
 #### Used technologies:
 1. Java Core
 2. Spring: Boot
-3. Database: PostgreSQL/JDBC, Hibernate
-4. Testing: JUnit
+3. Database: PostgreSQL, H2, Hibernate, Liquibase
+4. Testing: JUnit, AssertJ
 5. WEB: HTML, CSS, JS, jQuery, Ajax, Thymeleaf, Bootstrap
 6. Maven
 7. Travice CI
