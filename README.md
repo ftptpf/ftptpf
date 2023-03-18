@@ -1,12 +1,14 @@
 #### Used technologies:
 1. Java Core
-2. Spring: Boot
+2. Spring 
 3. Database: PostgreSQL, H2, Hibernate, Liquibase
 4. Testing: JUnit, AssertJ
 5. WEB: HTML, CSS, JS, jQuery, Ajax, Thymeleaf, Bootstrap
 6. Maven
-7. Travice CI
-8. IntelliJ Idea
+7. IntelliJ Idea
+
+#### My contact:
+Telegramm: @webdigg
 
 <!--
 **ftptpf/ftptpf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
