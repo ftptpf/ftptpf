@@ -1,11 +1,12 @@
 #### Used technologies:
-1. Java Core
+1. Java
 2. Spring 
-3. Database: PostgreSQL, H2, Hibernate, Liquibase
-4. Testing: JUnit, AssertJ
-5. WEB: HTML, CSS, JS, jQuery, Ajax, Thymeleaf, Bootstrap
-6. Maven
-7. IntelliJ Idea
+3. Microservices
+4. PostgreSQL, H2, Hibernate, Liquibase
+5. JUnit, AssertJ
+6. HTML, CSS, JS, jQuery, Ajax, Thymeleaf, Bootstrap
+7. Maven
+8. IntelliJ Idea
 
 #### My contact:
 Telegramm: @webdigg
