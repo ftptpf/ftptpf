@@ -1,12 +1,13 @@
 #### Used technologies:
-1. Java
-2. Spring 
+1. Java Core
+2. Spring (Framework, Boot, Data, Cloud, Security, Web)
 3. Microservices
-4. PostgreSQL, H2, Hibernate, Liquibase
-5. JUnit, AssertJ
-6. HTML, CSS, JS, jQuery, Ajax, Thymeleaf, Bootstrap
-7. Maven
-8. IntelliJ Idea
+4. Apache Kafka
+5. PostgreSQL, H2, Hibernate, Liquibase
+6. JUnit, AssertJ
+7. HTML, CSS, JS, jQuery, Ajax, Thymeleaf, Bootstrap
+8. Maven, Gradle
+9. IntelliJ Idea, Postman
 
 #### My contact:
 Telegramm: @webdigg
