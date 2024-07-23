@@ -2,12 +2,12 @@
 -  Java Core
 -  Spring (Framework, Boot, Data, Cloud, Security, Web)
 -  Microservices
--  Apache Kafka
+-  Apache Kafka, RabbitMQ
 -  PostgreSQL, H2, Hibernate, Liquibase
 -  JUnit, AssertJ
 -  HTML, CSS, JS, jQuery, Ajax, Thymeleaf, Bootstrap
 -  Maven, Gradle
--  Docker, Kubernetes
+-  Docker, Podman, Kubernetes
 
 #### My contact:
 Telegramm: @webdigg
